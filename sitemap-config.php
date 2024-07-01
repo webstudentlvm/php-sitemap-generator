@@ -3,7 +3,7 @@
 return array(
     // Site to crawl and create a sitemap for.
     // <Syntax> https://www.your-domain-name.com/ or http://www.your-domain-name.com/
-    "SITE_URL" => "https://student-laptop.nl/",
+    "SITE_URL" => "http://ec2-3-13-232-171.us-east-2.compute.amazonaws.com:9980",
 
     // Boolean for crawling external links.
     // <Example> *Domain = https://www.student-laptop.nl* , *Link = https://www.google.com* <When false google will not be crawled>
